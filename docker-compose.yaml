@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "sagarwadgeri/node-app-test-new:latest"
+    image: "sagarwadgeri/node-todo-app-cicd:latest"
     ports:
       - "8000:8000"
